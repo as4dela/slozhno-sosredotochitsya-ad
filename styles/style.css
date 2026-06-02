@@ -16,7 +16,6 @@
   display: grid;
   position: relative;
   grid-template-rows: 1fr min-content 1fr;
-  position: relative;
 }
 
 .header__theme-menu-list {
@@ -263,7 +262,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
 }
 
 .footer__title {
